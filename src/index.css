@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.header{
+  width: 100vw;
+  background-color: rgba(84, 33, 132, 0.571);
+  margin: 0 auto;
+  padding: 16px;
+  text-align: center;
+}
+.mainContent{
+  width: 100vw;
+  height: 75vh;
+  background-color: rgba(181, 181, 181, 0.571);
+  margin: auto;
+  padding: 16px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer{
+  width: 100vw;
+  background-color: rgba(84, 33, 132, 0.571);
+  margin: 0 auto;
+  padding: 16px;
+  text-align: center;
+}
